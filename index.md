@@ -2,122 +2,54 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# The Black World Seminar  
 
-There should be whitespace between paragraphs.
+Tuesdays 12pm-2pm  
+Gilman 308/Zoom  
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Subscribe to the [_blackworldlistserv_](https://lists.johnshopkins.edu/sympa/info/blackworldseminar) for the latest updates.
 
-# Header 1
+## Black World Faculty Conveners  
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Prof. Jessica Marie Johnson
 
-## Header 2
+Prof. N. D. B. Connolly
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Prof. Martha Jones
 
-### Header 3
+Prof. Lawrence Jackson
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Prof. Sasha Turner
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Prof. Minkah Makalani
 
-#### Header 4
+### About the Seminar
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+The Black World Seminar is a graduate-faculty seminar on the making and meaning of blackness between the 14th and 20th centuries. We consider Africans and people of African descent’s impact on the making of the modern world, from the slave trade to the present. We explore, too, the historical forces which created blackness as a marker on the body and as a political and cultural identity.  In commencing chronologically before the Middle Passage, this seminar pays special attention to processes of racialization, diaspora, moments of dislocation, the fashioning of memory, and to the gendered, racialized and generational encounters with capitalism. In this seminar’s thematic emphasis on Black History and Black Studies as disciplines, seminar attendees can expect to interrogate how specific approaches to the Black World developed in response to the political contexts of what’s generally considered “The West.”  
 
-##### Header 5
+In addition to reading works of Black History, the seminar considers what it means to write history “Black.” How do authors challenge white supremacy – bibliographically, methodologically, compositionally, and archivally?  How do they exercise and exhibit blackness as a set of descriptive and interpretive commitments? Far more than a physical marker, after all, blackness also represents an epistemology – a way of knowing – or what at time’s been called “black knowledge.” The Black World Seminar thus explores black knowledge as a library of works, a cluster of methodologies, interlocking modes of analysis and critique, and as a practice.  
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### SP2022 Seminar Leader
 
-###### Header 6
+Prof. Minkah Makalani
+Associate Professor of History
+Director of the Center for Africana Studies
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Syllabus and Seminar Schedule for Black World VI: [Spring 2022 (Makalani)](https://drive.google.com/drive/folders/1i2uGa4RTEYCx0Ylgb5xyJTuu7YaOPnpS?usp=sharing)
 
-### There's a horizontal rule below this.
+### For more on the Black World Seminar see Dr. Nathan Connolly's essay, "Come Celebrate a Black World" published as part of the [Taller Electric Marronage](https://www.electricmarronage.com) Fugitive Handbook [here](https://www.electricmarronage.com/electricblog/2020/6/20/come-celebrate-a-black-world).
 
-* * *
+### Past Syllabi
 
-### Here is an unordered list:
+Black World I: [Fall 2019 (Connolly)](https://www.dropbox.com/sh/0eyr6cdb6yhrpsc/AACpuK9KPL9lVntpohGl8xela)
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+Black World II: [Spring 2020 (Connolly-Johnson)](https://www.dropbox.com/s/29hilzy6yj30xal/SP20BlackWorldSeminar.pdf)
 
-### And an ordered list:
+Black World III: [Fall 2020 (Jones)](https://www.dropbox.com/s/ttda01hvejrsi67/fl20blackworld.docx)
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+Black World IV: [Spring 2021 (Connolly-Turner)](https://www.dropbox.com/s/bcy88qxen1w4kcl/blackworldseminarii.pdf)
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Black World V: [Fall 2021 (Johnson-Jackson)](https://docs.google.com/document/d/1z6UEZjamc0cTRU-1IAoHw_-9joZdwYMw/edit?usp=sharing&ouid=106948538052495080775&rtpof=true&sd=true)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
