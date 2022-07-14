@@ -1,0 +1,26 @@
+git remote set-url https://github.com/jmjafrx/blackworld/tree/gh-pages https://github.com/jmjafrx/blackworld6/tree/gh-pages
+
+
+personal access token
+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
+
+git push -u origin gh-pages
+
+workflow: 
+cd projectfolder
+
+git add *
+
+git commit -m "update v1.0"
+
+git push origin gh-pages
+
+
+to get the server to local host the site
+bundle exec jekyll serve
+
+
+
+Link for Black World Drive Folder: Black World Library
+
+https://drive.google.com/drive/folders/1i2uGa4RTEYCx0Ylgb5xyJTuu7YaOPnpS?usp=sharing
