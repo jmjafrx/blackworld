@@ -11,15 +11,15 @@ Subscribe to the [_blackworldlistserv_](https://lists.johnshopkins.edu/sympa/inf
 
 ## Black World Faculty Conveners  
 
-Prof. Jessica Marie Johnson
-
 Prof. N. D. B. Connolly
+
+Prof. Jessica Marie Johnson
 
 Prof. Martha Jones
 
-Prof. Lawrence Jackson
-
 Prof. Sasha Turner
+
+Prof. Lawrence Jackson
 
 Prof. Minkah Makalani
 
