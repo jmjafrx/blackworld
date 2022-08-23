@@ -36,7 +36,7 @@ In addition to reading works of Black History, the seminar considers what it mea
 
 For more on the Black World Seminar see Dr. Nathan Connolly's essay, "Come Celebrate a Black World" published as part of the [Taller Electric Marronage](https://www.electricmarronage.com) Fugitive Handbook [here](https://www.electricmarronage.com/electricblog/2020/6/20/come-celebrate-a-black-world).
 
-For a list of all Black World readings from Fall 2019 through Spring 2022, [click here](https://jmjafrx.github.io/blackworld/blackworldall). *Created summer 2022; thank you to Gregory Smaldone for compiling and organizing this list*
+For a list of all Black World readings from Fall 2019 through Spring 2022, [click here](https://docs.google.com/document/d/e/2PACX-1vQNIYddR4yfYaVZyCxP7LjOzRuvpBtMdqmCgSDPF99DkSxgHn7DVgfrISfnhp8HnQ/pub). *Created summer 2022; thank you to Gregory Smaldone for compiling and organizing this list*
 
 ### Past Syllabi
 
