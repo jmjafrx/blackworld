@@ -30,14 +30,13 @@ The Black World Seminar is a graduate-faculty seminar on the making and meaning 
 In addition to reading works of Black History, the seminar considers what it means to write history “Black.” How do authors challenge white supremacy – bibliographically, methodologically, compositionally, and archivally?  How do they exercise and exhibit blackness as a set of descriptive and interpretive commitments? Far more than a physical marker, after all, blackness also represents an epistemology – a way of knowing – or what at time’s been called “black knowledge.” The Black World Seminar thus explores black knowledge as a library of works, a cluster of methodologies, interlocking modes of analysis and critique, and as a practice.
 
 
-### Fall 2022 Seminar Leader
+### Fall 2022 Seminar Leader is Prof. Jessica Marie Johnson (Associate Professor of History) <br>
 
-Prof. Jessica Marie Johnson
-Associate Professor of History
+**Syllabus and Seminar Schedule for Black World 7: [Fall 2022 (JMJ)](https://docs.google.com/document/d/e/2PACX-1vQzI9oYarXKNJJZ-RTvDyAuVaFIJVsnGu0tPakwumA7kxSq68YjXBfkcwW8PhFNxQ/pub)**
 
-Syllabus and Seminar Schedule for Black World 7: [Fall 2022 (JMJ)](coming soon)
+For more on the Black World Seminar see Dr. Nathan Connolly's essay, "Come Celebrate a Black World" published as part of the [Taller Electric Marronage](https://www.electricmarronage.com) Fugitive Handbook [here](https://www.electricmarronage.com/electricblog/2020/6/20/come-celebrate-a-black-world).
 
-### For more on the Black World Seminar see Dr. Nathan Connolly's essay, "Come Celebrate a Black World" published as part of the [Taller Electric Marronage](https://www.electricmarronage.com) Fugitive Handbook [here](https://www.electricmarronage.com/electricblog/2020/6/20/come-celebrate-a-black-world).
+For a list of all Black World readings from Fall 2019 through Spring 2022, [click here](https://jmjafrx.github.io/blackworld/blackworldall). *Created summer 2022; thank you to Gregory Smaldone for compiling and organizing this list*
 
 ### Past Syllabi
 
