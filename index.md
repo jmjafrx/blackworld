@@ -30,9 +30,9 @@ The Black World Seminar is a graduate-faculty seminar on the making and meaning 
 In addition to reading works of Black History, the seminar considers what it means to write history “Black.” How do authors challenge white supremacy – bibliographically, methodologically, compositionally, and archivally?  How do they exercise and exhibit blackness as a set of descriptive and interpretive commitments? Far more than a physical marker, after all, blackness also represents an epistemology – a way of knowing – or what at time’s been called “black knowledge.” The Black World Seminar thus explores black knowledge as a library of works, a cluster of methodologies, interlocking modes of analysis and critique, and as a practice.
 
 
-### Spring 2023 Seminar Leader is Prof. Martha Jones (Society of Black Alumni Professor of History) <br>
+### Fall 2023 Seminar Leader is Prof. Jessica Marie Johnson (Associate Professor of History) <br>
 
-**Syllabus and Seminar Schedule for Black World 8: [Spring 2023 (Jones)](https://docs.google.com/document/d/10OfVdvR2YEKpwXpMxAjaSB1Z0mczpzA6JTi3SilPgks/edit)**
+**Syllabus and Seminar Schedule for Black World 9: [Fall 2023 (JMJ+ProSeminar)](TBA)**
 
 For more on the Black World Seminar see Dr. Nathan Connolly's essay, "Come Celebrate a Black World" published as part of the [Taller Electric Marronage](https://www.electricmarronage.com) Fugitive Handbook [here](https://www.electricmarronage.com/electricblog/2020/6/20/come-celebrate-a-black-world).
 
@@ -53,3 +53,6 @@ Black World V: [Fall 2021 (Johnson-Jackson)](https://docs.google.com/document/d/
 Black World VI: [Fall 2022 (Makalani)](https://drive.google.com/drive/folders/1i2uGa4RTEYCx0Ylgb5xyJTuu7YaOPnpS?usp=sharing)
 
 Black World VII: [Spring 2022 (Johnson)](https://docs.google.com/document/d/e/2PACX-1vQzI9oYarXKNJJZ-RTvDyAuVaFIJVsnGu0tPakwumA7kxSq68YjXBfkcwW8PhFNxQ/pub)
+
+Black World VIII: [Spring 2023 (Jones)](https://docs.google.com/document/d/10OfVdvR2YEKpwXpMxAjaSB1Z0mczpzA6JTi3SilPgks/edit) 
+
