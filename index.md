@@ -32,7 +32,7 @@ In addition to reading works of Black History, the seminar considers what it mea
 
 ### Fall 2023 Seminar Leader is Prof. Jessica Marie Johnson (Associate Professor of History) <br>
 
-**Syllabus and Seminar Schedule for Black World 9: [Fall 2023 (JMJ+ProSeminar)](TBA)**
+**Syllabus and Seminar Schedule for Black World 9: [Fall 2023](https://docs.google.com/document/u/1/d/e/2PACX-1vQdHou2QDhq9f03Phte--QePKyMw8lBXPBeShwExuxWgQyIS2L8Quv3scu_pQXD3qjQxd73JCtRn7It/pub)**
 
 For more on the Black World Seminar see Dr. Nathan Connolly's essay, "Come Celebrate a Black World" published as part of the [Taller Electric Marronage](https://www.electricmarronage.com) Fugitive Handbook [here](https://www.electricmarronage.com/electricblog/2020/6/20/come-celebrate-a-black-world).
 
