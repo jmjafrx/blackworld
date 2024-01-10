@@ -30,9 +30,9 @@ The Black World Seminar is a graduate-faculty seminar on the making and meaning 
 In addition to reading works of Black History, the seminar considers what it means to write history “Black.” How do authors challenge white supremacy – bibliographically, methodologically, compositionally, and archivally?  How do they exercise and exhibit blackness as a set of descriptive and interpretive commitments? Far more than a physical marker, after all, blackness also represents an epistemology – a way of knowing – or what at time’s been called “black knowledge.” The Black World Seminar thus explores black knowledge as a library of works, a cluster of methodologies, interlocking modes of analysis and critique, and as a practice.
 
 
-### Fall 2023 Seminar Leader is Prof. Jessica Marie Johnson (Associate Professor of History) <br>
+### Spring 2024 Seminar Leader is Prof. Dr. Nathan Connolly (Herbert Baxter Adams Associate Professor of History) <br>
 
-**Syllabus and Seminar Schedule for Black World 9: [Fall 2023](https://docs.google.com/document/u/1/d/e/2PACX-1vQdHou2QDhq9f03Phte--QePKyMw8lBXPBeShwExuxWgQyIS2L8Quv3scu_pQXD3qjQxd73JCtRn7It/pub)**
+**Syllabus and Seminar Schedule for Black World X: [Spring 2024](https://www.dropbox.com/scl/fi/6o6q282dwyaa0z1xov126/The-Black-World-Seminar-X-Political-Economy-syllabus.pdf?rlkey=8iwllfieg2ubj41ftox9fb63c&dl=0)**  
 
 For more on the Black World Seminar see Dr. Nathan Connolly's essay, "Come Celebrate a Black World" published as part of the [Taller Electric Marronage](https://www.electricmarronage.com) Fugitive Handbook [here](https://www.electricmarronage.com/electricblog/2020/6/20/come-celebrate-a-black-world).
 
@@ -54,5 +54,8 @@ Black World VI: [Fall 2022 (Makalani)](https://drive.google.com/drive/folders/1i
 
 Black World VII: [Spring 2022 (Johnson)](https://docs.google.com/document/d/e/2PACX-1vQzI9oYarXKNJJZ-RTvDyAuVaFIJVsnGu0tPakwumA7kxSq68YjXBfkcwW8PhFNxQ/pub)
 
-Black World VIII: [Spring 2023 (Jones)](https://docs.google.com/document/d/10OfVdvR2YEKpwXpMxAjaSB1Z0mczpzA6JTi3SilPgks/edit) 
+Black World VIII: [Spring 2023 (Jones)](https://docs.google.com/document/d/10OfVdvR2YEKpwXpMxAjaSB1Z0mczpzA6JTi3SilPgks/edit)  
+
+Black World IX: [Fall 2024 (JMJ)](https://docs.google.com/document/u/1/d/e/2PACX-1vQdHou2QDhq9f03Phte--QePKyMw8lBXPBeShwExuxWgQyIS2L8Quv3scu_pQXD3qjQxd73JCtRn7It/pub)  
+
 
