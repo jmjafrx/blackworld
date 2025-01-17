@@ -36,7 +36,7 @@ In addition to reading works of Black History, the seminar considers what it mea
 
 ### Spring 2025 Seminar Convener is Prof. Jessica Marie Johnson (Associate Professor of History) <br>
 
-**Syllabus and Seminar Schedule for Black World XII: [Spring 2025](TBA)**  
+**Syllabus and Seminar Schedule for Black World XII: [Spring 2025](https://bit.ly/blackworld12)**  
 
 For more on the Black World Seminar see Dr. Nathan Connolly's essay, "Come Celebrate a Black World" published as part of the [Taller Electric Marronage](https://www.electricmarronage.com) Fugitive Handbook [here](https://www.electricmarronage.com/electricblog/2020/6/20/come-celebrate-a-black-world).
 
