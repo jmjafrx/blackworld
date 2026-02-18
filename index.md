@@ -66,6 +66,8 @@ Black World X: [Spring 2024 (Connolly)](https://www.dropbox.com/scl/fi/6o6q282dw
 
 Black World XI: [Fall 2024 (Jones)](https://docs.google.com/document/d/1EK5rRqConxBFjUkgGFuvXjHNTVJCAKvNTLnX3uuX4Us/edit?tab=t.0)
 
+Black World XII: [Spring 2025 (JMJ)](https://www.kitchentablehistory.blog/p/black-creative-worlds-full-schedule)  
 
+Black World XIII: [Spring 2026 (Turner)](https://drive.google.com/file/d/1ccuCjZIyWlQz5cmACdlrAP265DVL7kh2/view?usp=drive_link)  
 
 
